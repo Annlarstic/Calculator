@@ -1,6 +1,6 @@
 {
   "name": "my-caculator",
-  "homepage": "https://annlarstic.github.io/Calculator/",
+  "homepage": "https://annlarstic.github.io/Calculator/", 
   "private": true,
   "version": "0.0.0",
   "type": "module",
